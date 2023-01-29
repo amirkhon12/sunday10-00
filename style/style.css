@@ -77,8 +77,18 @@ h1{
   gap: 25px;
 }
 
-.main__block{
+.main__item{
    width: 25%;
    height: 500px;
    background: purple;
+}
+
+.footer{
+   padding: 50px 0;
+}
+
+p{
+   text-align: center;
+   font-size: 30px;
+   text-shadow: 0 0 10px red;
 }
